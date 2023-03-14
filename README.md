@@ -8,4 +8,4 @@ Hyderabad                                     2000                    900
 Mumabi                                        2500                   1200
 Cochin                                        1800                   1200
 
-when a customer type his city and square feet, he need to get  the total amount for the construction.
+when a customer type his city and square feet, he need to get  the total amount for the construction.write a java program using java 8 features.Implement the test engine for testing.
